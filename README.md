@@ -11,7 +11,7 @@ Customer Login:
    Customer user can purchase the product and buy and cancel  the product also . Payment with  Razor payment 
    Businees user his can add the proudct and Sealing  it.
    
-   ![test](https://github.com/Bharath1275/MYProject/blob/main/Screenshots/WhatsApp%20Image%202020-11-17%20at%2010.01.28%20PM.jpeg)
+   ![test](https://github.com/Bharath1275/MYProject/blob/main/Screenshots/WhatsApp%20Image%202020-11-17%20at%2010.01.28%20PM.jpeg| width =100)
    
 Businees Login: 
 
