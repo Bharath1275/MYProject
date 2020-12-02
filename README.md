@@ -1,4 +1,4 @@
-# Project Name  Localhive  
+#   Localhive  
    
    Localhive is an E-commerce application. The purpose of Localhive is to provide local service for his customer.
    The app consists of two roles for Login - Business, Customer.
