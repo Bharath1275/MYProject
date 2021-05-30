@@ -18,6 +18,14 @@ Businees Login:
 1.The business user can avail of the other services just like normal service.
 2. User can add his business products or service for the customer.
 3. Business users can communicate with their customers for customer queries.
+
+
+Tools involved(React Native Android Application development): 
+
+1.Visual Studio IDE for development.
+2.Java script 
+
+
       
     
   
